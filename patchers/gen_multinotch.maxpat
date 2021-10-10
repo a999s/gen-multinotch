@@ -1008,14 +1008,15 @@
  ],
 		"dependency_cache" : [ 			{
 				"name" : "windowed-fft~.maxpat",
-				"bootpath" : "C74:/help/msp",
+				"bootpath" : "~/Documents/Max 8/Projects/gen_multinotch/patchers",
+				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "multinotchDesc.js",
-				"bootpath" : "~/Documents/Max 8/JS",
-				"patcherrelativepath" : "../../../JS",
+				"bootpath" : "~/Documents/Max 8/Projects/gen_multinotch/code",
+				"patcherrelativepath" : "../code",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
